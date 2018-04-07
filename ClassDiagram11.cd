@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="SecuritySystem.AboutForm">
+    <Position X="4.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACBDAAAAAACAAAACAAAAIAAAACAAAAAEAAA=</HashCode>
+      <FileName>AboutForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Neurotec.Gui.BusyForm">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAIgQACEAAAMAAAGAAUACAIAggAgAQAAAABAAgAg=</HashCode>
+      <FileName>BusyForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SecuritySystem.DARform">
+    <Position X="6.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>hEAAAAAAAKAAEAAQAACAAAACAAhgAAAAAAhEAAAAAAA=</HashCode>
+      <FileName>DARform.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SecuritySystem.EnrollForm">
+    <Position X="0.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABEAAACAAAADAAAAAEAAAQAAAAAAAAA=</HashCode>
+      <FileName>EnrollForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SecuritySystem.MainForm">
+    <Position X="9.75" Y="1.25" Width="1.5" />
+    <NestedTypes>
+      <Class Name="SecuritySystem.MainForm.EnrollmentResult" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>MainForm.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="SecuritySystem.MainForm.VerificationResult" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>MainForm.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>IARhAj2YSCJAAAAAAkGGECAaEgpBCwOKwTwCAQAkEAE=</HashCode>
+      <FileName>MainForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SecuritySystem.CData">
+    <Position X="8" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAADAAgAAEAAAAAAQAACAAQBAAAAAAAAAAAAA=</HashCode>
+      <FileName>MainForm.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="SecuritySystem.Program">
+    <Position X="2.25" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SecuritySystem.purposeinput">
+    <Position X="11.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAEAAACAAEACAAAAAAAAEAAAABAAAAA=</HashCode>
+      <FileName>purposeinput.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SecuritySystem.UserRecord">
+    <Position X="14.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAAgAAAAABAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>UserDatabase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SecuritySystem.UserDatabase">
+    <Position X="13.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQAAAAAAIAAAAAAAAAAEAAAAAAAAAAA=</HashCode>
+      <FileName>UserDatabase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SecuritySystem.SettingsForm">
+    <Position X="16.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AggAAAAAACAAIBEAAACAAAAGAAAAgEAAAAQABACAAAA=</HashCode>
+      <FileName>SettingsForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SecuritySystem.UserInfoForm">
+    <Position X="21.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAMKAAAAAEAADcEIACEAAUARAABYAAAAIIAAI=</HashCode>
+      <FileName>UserInfoForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebCamera.WebCam">
+    <Position X="19" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAUAACBAABEAACAACBIAASQAJAEAAEEAECQAARI=</HashCode>
+      <FileName>WebCamera.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

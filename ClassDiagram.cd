@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="SecuritySystem.AboutForm">
+    <Position X="3.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAACJDAAABAACAAAACABAAAAAAACBAQABEAAA=</HashCode>
+      <FileName>AboutForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SecuritySystem.EnrollForm">
+    <Position X="5.25" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABEAAACAAAADAAAAAEAAAQAAAAAAAAA=</HashCode>
+      <FileName>EnrollForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SecuritySystem.MainForm">
+    <Position X="1.75" Y="1.75" Width="1.5" />
+    <NestedTypes>
+      <Class Name="SecuritySystem.MainForm.EnrollmentResult" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>MainForm.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="SecuritySystem.MainForm.VerificationResult" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>MainForm.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>YAABAi0QSCIAABAAAkGEEKAKAgpBA4EKQTAAAQAkEAE=</HashCode>
+      <FileName>MainForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SecuritySystem.CData" BaseTypeListCollapsed="true">
+    <Position X="5.25" Y="12" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAADAAgAAEAAAAAAQAACAAQBAAAAAAAAAAAAA=</HashCode>
+      <FileName>MainForm.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="SecuritySystem.Program">
+    <Position X="1.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SecuritySystem.SettingsForm">
+    <Position X="3.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AggAAAAAACAAIBEAAACAAAAGAAAAgEAAAAQABACAAAA=</HashCode>
+      <FileName>SettingsForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SecuritySystem.UserRecord">
+    <Position X="5.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAAgAAAAABAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>UserDatabase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SecuritySystem.UserDatabase">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQAAAAAAIAAAAAAAAAAEAAAAAAAAAAA=</HashCode>
+      <FileName>UserDatabase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SecuritySystem.UserInfoForm">
+    <Position X="5.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAACIAAACAAAEAAAABYAAAAAAAAA=</HashCode>
+      <FileName>UserInfoForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Neurotec.Gui.BusyForm">
+    <Position X="7" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAIgQACEAAAMAAAGAAUACAIAggAgAQAAAABAAgAg=</HashCode>
+      <FileName>BusyForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SecuritySystem.Properties.Resources">
+    <Position X="8.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAEAAAAAAAABEAAAAQEAAAAAAAAAAECEAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SecuritySystem.Properties.Settings">
+    <Position X="3.5" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebCamera.WebCam" BaseTypeListCollapsed="true">
+    <Position X="7" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAUAACBAABEAACAACBIAASQAJAEAAEEAECQAARI=</HashCode>
+      <FileName>WebCamera.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
